@@ -1,9 +1,8 @@
 fastapi
 uvicorn
-mangum
 boto3
 pydantic-settings
 sqlalchemy
-psycopg2-binary
+psycopg2
 email-validator
 PyJWT
